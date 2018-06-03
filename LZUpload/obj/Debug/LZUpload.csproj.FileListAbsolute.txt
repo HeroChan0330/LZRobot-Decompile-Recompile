@@ -1,0 +1,11 @@
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\LZUpload.exe.config
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\obj\Debug\LZUpload.csprojResolveAssemblyReference.cache
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\LZUpload.exe
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\LZUpload.pdb
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\AForge.Controls.DLL
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\AForge.DLL
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\AForge.Video.dll
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\Newtonsoft.Json.dll
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\bin\Debug\AForge.Imaging.dll
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\obj\Debug\LZUpload.exe
+c:\users\子豪\documents\visual studio 2013\Projects\LZUpload\LZUpload\obj\Debug\LZUpload.pdb

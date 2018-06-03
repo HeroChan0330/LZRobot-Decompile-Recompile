@@ -1,0 +1,10 @@
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\LZUpload.exe.config
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\LZUpload.exe
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\LZUpload.pdb
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\AForge.Controls.DLL
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\AForge.DLL
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\AForge.Video.dll
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\Newtonsoft.Json.dll
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\bin\Release\AForge.Imaging.dll
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\obj\Release\LZUpload.exe
+C:\Users\子豪\Documents\Visual Studio 2013\Projects\LZUpload\LZUpload\obj\Release\LZUpload.pdb
