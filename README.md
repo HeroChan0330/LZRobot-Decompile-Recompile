@@ -1,0 +1,5 @@
+# LZRobot-Decompile-Recompile
+反编译乐智的一个图形化编程软件(useless,irrational design)，将其上传代码的一个类分离出来。仅供学习，不作商用。
+我也不懂为什么在一个raspberry上既然都搭建了一个http服务了，还用socket将代码文件变成byte流传过去。
+原软件使用github上面的开源block（web）图形化编程，再套一个chromium的壳。既然都做成这样为什么不在raspberry上面的集成这个呢，再做成成响应式多好。
+有些设计的确是多余，有些有用的东西又不设计。
